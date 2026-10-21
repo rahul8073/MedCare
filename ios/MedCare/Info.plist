@@ -56,5 +56,14 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSLocationWhenInUseUsageDescription</key>
+<string>We need your location to show nearby services when the app is active.</string>
+
+<!-- Optional: Only include these if you require background tracking -->
+<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+<string>We need continuous location access to track your route even in the background.</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>We need continuous location access to track your route.</string>
+
 </dict>
 </plist>
